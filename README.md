@@ -1,7 +1,8 @@
 # Hi, I'm Abdullah Alkurdi 👋
 
-**IT graduate based in Makkah, Saudi Arabia, building toward Application & Systems Support.**
-I like understanding how a system works end to end: from the screen the user sees, through the app, API, network and server, down to the database. When something breaks, I want to find the root cause.
+**IT Support & Application Support | Flutter developer | Makkah, Saudi Arabia**
+
+IT graduate building toward Application & Systems Support. I like understanding how a system works end to end: from the screen the user sees, through the app, API, network and server, down to the database. When something breaks, I want to find the root cause.
 
 🌐 [Portfolio](https://portfolio.abdullah-h-alkurdi.workers.dev/) · 📧 abdullah.h.alkurdi@gmail.com
 
@@ -22,7 +23,7 @@ I like understanding how a system works end to end: from the screen the user see
 
 | Project | What it is | Status |
 |---|---|---|
-| [**JustTags**](https://github.com/AbdullahAlkurdi/justtags) | Social platform built around tags: communities, groups, chat, media sharing, polls, Q&A with answer ratings. Graduation project; I wrote all the code. Flutter, Firebase, BLoC, Riverpod, get_it | Graduation version finished; extending it |
+| [**JustTags**](https://github.com/AbdullahAlkurdi/justtags) | Tag-based social platform: communities, groups, chat, media sharing, polls, Q&A with answer ratings. Graduation project; I wrote all the code. Flutter, Firebase, BLoC, Riverpod, get_it | Graduation version finished; extending it |
 | [**Rizen**](https://github.com/AbdullahAlkurdi/Rizen) | Life-management / habit app with an AI coach. Flutter, Clean Architecture, BLoC, Firebase, Gemini API | In active development |
 | [**Seima**](https://github.com/AbdullahAlkurdi/Seima) | Visual-thinking / mind-mapping tool with on-device AI and local storage. Flutter, flutter_bloc, go_router, get_it | In development |
 | [**TripMate**](https://github.com/AbdullahAlkurdi/tripmate) | Travel companion for trip planning and budget estimates | Early stage (project initialized, features planned) |
